@@ -226,6 +226,5 @@ public class JobData {
         allCoreCompetency.sort(new NameSorter());
         return allCoreCompetency;
     }
-
 }
 
